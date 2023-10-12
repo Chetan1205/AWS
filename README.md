@@ -32,7 +32,9 @@ Collaboration and data sharing: It is suitable for both collaboration and data s
 
 
 
+
 3) services model in cloud?
+   
 ->There are the following three types of cloud service models -
 
 Infrastructure as a Service (IaaS)
