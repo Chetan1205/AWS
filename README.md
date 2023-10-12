@@ -1,8 +1,9 @@
-# AWS
-1) what is cloud computing ?
+1) what is cloud computing?
+
 -> Simply put, cloud computing is the delivery of computing services—including servers, storage, databases, networking, software, analytics, and intelligence—over the Internet.
 
-2)deployment model in cloud ?
+2)deployment model in cloud? 
+
 -> there are 4 types of deployment model 
 	a)Public Cloud
 	b)Private Cloud
