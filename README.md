@@ -1,4 +1,5 @@
-# AWS1) what is cloud computing ?
+# AWS
+1) what is cloud computing ?
 -> Simply put, cloud computing is the delivery of computing services—including servers, storage, databases, networking, software, analytics, and intelligence—over the Internet.
 
 2)deployment model in cloud ?
